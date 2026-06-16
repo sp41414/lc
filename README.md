@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This is my repository for all my leetcode solutions, written in Go.
+This is my repository for all my leetcode solutions.
 
 ## Repository Structure
 
@@ -8,13 +8,13 @@ This is my repository for all my leetcode solutions, written in Go.
 └── src
     ├── easy
     │   ├── easyProblem
-    │   │   └── easySolution.go
+    │   │   └── easySolution
     ├── hard
     │   ├── hardProblem
-    │   │   └── hardSolution.go
+    │   │   └── hardSolution
     └── medium
         ├── mediumProblem
-        │   └── mediumSolution.go
+        │   └── mediumSolution
 ```
 
 The directories inside the difficulties are named by the leetcode problem's ID number
